@@ -1,0 +1,11 @@
+# Opens the menu, goes to Settings and back, then the in-game menu.
+shot 1-inicio
+y
+shot 2-menu
+down 2
+a
+shot 3-ajustes
+b
+b
+game raiz/game/demo.gba
+shot 4-en-juego
